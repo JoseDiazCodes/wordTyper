@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100wh;
+	background-color: #f5f5f5;
+}
+
+#textDisplay {
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+
+#textInput {
+	margin-bottom: 20px;
+	font-size: 18px;
+	padding: 10px;
+	width: 50%;
+}
+
+#stats {
+	font-size: 18px;
+}
+
+#stats p {
+	margin: 0;
+}
